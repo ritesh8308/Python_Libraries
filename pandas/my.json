@@ -1,0 +1,10 @@
+{
+  "project_names": ["Café Manager", "Portfolio Site", "PrivateGPT Bot"],
+  "status": ["Completed", "In Progress", "Prototype"],
+  "tech_stack": [
+    ["Flask", "SQLite", "Jinja2"],
+    ["HTML", "CSS", "JavaScript"],
+    ["Python", "LangChain", "FAISS"]
+  ],
+  "last_updated": ["2025-07-20", "2025-08-01", "2025-07-28"]
+}

@@ -1,0 +1,14 @@
+[
+  {
+    "project_name": "Café Manager",
+    "status": "Completed",
+    "tech_stack": ["Flask", "SQLite", "Jinja2"],
+    "last_updated": "2025-07-20"
+  },
+  {
+    "project_name": "Portfolio Site",
+    "status": "In Progress",
+    "tech_stack": ["HTML", "CSS", "JavaScript"],
+    "last_updated": "2025-08-01"
+  }
+]
